@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tin Ho Chu</h1>
-<h3 align="center">Sr. WP Developer 👨‍💻 | Javascript Developer 👨‍💻 | Entrepreneur 🚀</h3>
+<h3 align="center">Sr. WordPress Developer 👨‍💻 | Javascript Developer 👨‍💻 | Entrepreneur 🚀</h3>
 
 <p align="left"> <a href="https://twitter.com/tinhochu" target="blank"><img src="https://img.shields.io/twitter/follow/tinhochu?logo=twitter&style=for-the-badge" alt="tinhochu" /></a> </p>
 
