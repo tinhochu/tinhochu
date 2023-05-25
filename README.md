@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tinho.co](https://tinho.co)
 
-- 💬 Ask me about **react, nextjs, WordPress**
+- 💬 Ask me about **React, NextJS, WordPress, Javascript, NodeJS**
 
 - 📫 How to reach me **me@tinho.co**
 
