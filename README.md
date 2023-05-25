@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **me@tinho.co**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1--4RvL4uqrA3hpcz2nAvSJnmLfqrDez9RZWq47ZWDgA/edit?usp=sharing](https://docs.google.com/document/d/1--4RvL4uqrA3hpcz2nAvSJnmLfqrDez9RZWq47ZWDgA/edit?usp=sharing)
+- 🗓️ Setup a meeting with me [**here**](https://fantastical.app/tinhochu/meet)
+
+- 📄 Know about my experiences [**here is my resume.**](https://docs.google.com/document/d/1--4RvL4uqrA3hpcz2nAvSJnmLfqrDez9RZWq47ZWDgA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
