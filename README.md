@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinhochu&show_icons=true&locale=en&layout=compact" alt="tinhochu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhochu&show_icons=true&locale=en" alt="tinhochu" /></p>
+
+<a href="https://app.daily.dev/tinhochu"><img src="https://api.daily.dev/devcards/39ca0dc885ba4274a74cd9053fb0349a.png?r=7kp" width="250" alt="Tin Chu's Dev Card"/></a>
